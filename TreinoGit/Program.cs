@@ -11,6 +11,7 @@ namespace TreinoGit
 
             Console.WriteLine("teste");
             Console.WriteLine("tenha um bom dia");
+            Console.WriteLine("Tchau");
         }
     }
 }
